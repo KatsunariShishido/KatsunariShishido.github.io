@@ -1,5 +1,5 @@
 # KatsunariShishido.github.io
 
 ## For some lab members
-* [Elliptic Curve](/elliptic_curve/README.md)
-* [Infromation Theory](/information_theory/README.md)
+* [Elliptic Curve](/KatsunariShishido/elliptic_curve/blob/master/README.md)
+* [Infromation Theory](/KatsunariShishido/information_theory/blob/master/README.md)
