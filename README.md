@@ -1,4 +1,4 @@
-# KatsunariShishido.github.io
+# Katsunari Shishido.github.io
 
 ## For some lab members
 * [Elliptic Curve](https://katsunarishishido.github.io/elliptic_curve/)
