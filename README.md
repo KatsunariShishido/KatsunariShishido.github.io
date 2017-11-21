@@ -1,5 +1,5 @@
 # KatsunariShishido.github.io
 
 ## For some lab members
-* [Elliptic Curve](/elliptic_curve)
+* [Elliptic Curve](https://katsunarishishido.github.io/elliptic_curve/)
 * [Infromation Theory](katsunarishishido.github.io/information_theory/)
