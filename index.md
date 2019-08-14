@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # Katsunari Shishido
 
 I am Katsunari shishido who is a second year Ph.D student in Graduate School of Engineering at Osaka University.
